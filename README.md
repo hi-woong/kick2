@@ -2,10 +2,16 @@
 
 # 🚴🏻‍YOLOv5를 활용한 실시간 전동킥보드 운전자 모니터링 및 주차 인식 서비스
 
+<img src = "https://user-images.githubusercontent.com/105634994/186194963-ce5b364a-406b-4519-8ccb-fc4dabbd55fd.png" width="10%" height="10%">
 
 *'KickSquad🚴' is a  detection system.*
 
-<img src="https://user-images.githubusercontent.com/105634994/186194963-ce5b364a-406b-4519-8ccb-fc4dabbd55fd.png  width="200" height="400"/>
+
+
+# 시연연상
+
+https://user-images.githubusercontent.com/105634994/186196474-92f3ba00-e39f-4ef9-ada9-52f07dd3c012.mp4
+
 
 
  ## 01. 프로젝트 소개
