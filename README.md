@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/105634994/186196474-92f3ba00-e39f-4ef9
     Github
 
 ### *Frontend*
-    Web Page : Html, CSS, JS
+    Web Page : Html, CSS, JS, jQuery
     Web Server : Tomcat, flask
 
 ### *Backend*
@@ -68,14 +68,11 @@ https://user-images.githubusercontent.com/105634994/186196474-92f3ba00-e39f-4ef9
 ### *DB*
     MySQL
  
-### *Development Environment*
-    Visual studio code
-    Pycharm
-    eclipse
-    Yolo v5
-    
-    
 
+## Postion
+
+- UI&IX 설계
+- Ajax 을 이용한 비동기 페이지 구현
 
 
 
