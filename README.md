@@ -10,7 +10,7 @@
 
 # 시연연상
 
-https://user-images.githubusercontent.com/105634994/186196474-92f3ba00-e39f-4ef9-ada9-52f07dd3c012.mp4
+https://youtu.be/3cgrlUfnrHA
 
 
 
