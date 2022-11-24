@@ -38,6 +38,11 @@ https://youtu.be/3cgrlUfnrHA
  - 지도 API를 통한 전동 킥보드 위치 시각화
  - HTML, CSS, Swiper를 활용한 웹 사이트 구축 및 동적 페이지 구성
  - Javascript, jQuery를 통한 비동기 방식으로 웹 애플리케이션 구현
+ 
+ ![KakaoTalk_20221124_120448943](https://user-images.githubusercontent.com/105634994/203686098-9f67a117-ff05-4715-9271-f2a67666c1d8.png)
+
+ 
+ 
  ## ⚡TEAM⚡
    
     😋 Junyoung Park(Team Leader) : https://github.com/
