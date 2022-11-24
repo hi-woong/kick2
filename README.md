@@ -40,6 +40,15 @@ https://youtu.be/3cgrlUfnrHA
  - Javascript, jQuery를 통한 비동기 방식으로 웹 애플리케이션 구현
  
  ![KakaoTalk_20221124_120448943](https://user-images.githubusercontent.com/105634994/203686098-9f67a117-ff05-4715-9271-f2a67666c1d8.png)
+ ![KakaoTalk_20221124_120503025](https://user-images.githubusercontent.com/105634994/203686209-42b05542-e942-48d5-b78a-c105519580d3.png)
+ ![KakaoTalk_20221124_120513683](https://user-images.githubusercontent.com/105634994/203686239-5edcf5a1-35d6-4ec3-a075-82b3ec0ede7c.png)
+ ![KakaoTalk_20221124_120525139](https://user-images.githubusercontent.com/105634994/203686255-fe32497d-6264-4a27-9604-4febc480c5f5.png)
+ ![KakaoTalk_20221124_120533431](https://user-images.githubusercontent.com/105634994/203686330-5ce84fb5-048e-4be3-8cb5-00faedacbe49.png)
+ ![KakaoTalk_20221124_120541317](https://user-images.githubusercontent.com/105634994/203686345-bfa294c9-09ea-47ab-9957-6532a554743b.png)
+ ![KakaoTalk_20221124_120546777](https://user-images.githubusercontent.com/105634994/203686364-f2fba37a-2bb7-4e37-a452-d1855edf8d4f.png)
+ ![KakaoTalk_20221124_120555654](https://user-images.githubusercontent.com/105634994/203686391-d2b2be7e-84bb-47ad-81ea-e0e046a224ae.png)
+ ![KakaoTalk_20221124_120838987](https://user-images.githubusercontent.com/105634994/203686407-dc9d8019-38b7-4a2a-978d-08758d27549c.png)
+
 
  
  
