@@ -86,15 +86,6 @@ https://youtu.be/3cgrlUfnrHA
 ## Postion
 
 - UI&IX 설계
-- Ajax 을 이용한 비동기 페이지 구현
+- Ajax 을 이용한 비동기 페이지 구현(rest controller 연결)
+- 핸드러 메소드 구현
 
-
-
-
-## ❤System Architecture❤
-
-
-## 🛴DEMO
-
-
-## 📌Web-Site
